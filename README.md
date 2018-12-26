@@ -16,7 +16,7 @@ if so, print "Stop the car!".
 
 
 // task separator
-echo "<hr style=\"margin 1rem 0\">";
+echo "&lt;hr style=\"margin 1rem 0\"&gt;";
 
 
 /*
