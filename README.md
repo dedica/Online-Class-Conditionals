@@ -15,7 +15,7 @@ if so, print "Stop the car!".
 */
 
 /*
-Use ternary operator to print "Stop the car!" if the red light is on.
+If the red light is on, use ternary operator to print "Stop the car!" as a paragraph.
 */
 
 
@@ -51,7 +51,34 @@ assign it with the value <strong><em>false</em></strong>.
 */
 
 /*
-Use if-else statement to check if the red light or yellow light is on,
+Use if-else statement to check if the red or yellow light is on,
 if so, print "Stop the car!", otherwise print "Are you sure that traffic lights are working at all?".
+*/
+
+
+
+
+
+// task separator
+echo "&lt;hr style=\"margin 1rem 0\"&gt;";
+
+/*
++---+
+| 4 |
++---+
+Declare variable named <strong><em>greenLight</em></strong> and 
+assign it with the value <strong><em>false</em></strong>.
+*/
+
+/*
+Use if-else statement to check if the red or yellow light is on, and the green light is off,
+if so, print "Stop the car!", 
+else if the red or yellow light is off, and the green light is off.
+In this case print "Power outage!",
+else if the red or yellow light is off, and the green light is on.
+In this case print "Keep moving!";
+else if the red or yellow light is on, and the green light is on.
+In this case print "Traffic lights are messed up!"
+otherwise print "Follow the rules and stay safe!".
 */
 </pre>
