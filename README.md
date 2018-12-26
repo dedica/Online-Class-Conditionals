@@ -85,6 +85,6 @@ In this case, print "Keep moving!";
 Next, check if the red or yellow light is on, and the green light is on too.
 In this case, print "Traffic lights are messed up!".
 
-In any other case, print "Follow the rules and stay safe!".
+In any other case, print "Use the common sense and stay safe!".
 */
 </pre>
