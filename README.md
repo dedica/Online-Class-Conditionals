@@ -75,14 +75,14 @@ Use if-else statement to check if the red or yellow light is on, and the green l
 if so, print "Stop the car!".
 
 Next, check if the red and yellow and green light is off,
-In this case print "Power outage!".
+In this case, print "Power outage!".
 
 Next, check if the red and yellow light is off, and the green light is on.
-In this case print "Keep moving!";
+In this case, print "Keep moving!";
 
 Next, check if the red or yellow light is on, and the green light is on too.
-In this case print "Traffic lights are messed up!".
+In this case, print "Traffic lights are messed up!".
 
-In any other case print "Follow the rules and stay safe!".
+In any other case, print "Follow the rules and stay safe!".
 */
 </pre>
