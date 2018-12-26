@@ -14,6 +14,10 @@ Use if-statement to check if the red light is on,
 if so, print "Stop the car!".
 */
 
+/*
+Use ternary operator to print "Stop the car!" if the red light is on.
+*/
+
 
 
 
