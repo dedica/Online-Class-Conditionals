@@ -87,4 +87,18 @@ In this case, print "Traffic lights are messed up!".
 
 In any other case, print "Use the common sense and stay safe!".
 */
+
+
+
+
+// task separator
+echo "&lt;hr style=\"margin 1rem 0\"&gt;";
+
+/*
++---+
+| 5 |
++---+
+Handle the problem from the task 4 with the switch-statement!
+The referencial value will be <strong><em>true</em></strong>.
+*/
 </pre>
