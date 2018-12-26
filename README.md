@@ -91,6 +91,7 @@ In any other case, print "Use the common sense and stay safe!".
 
 
 
+
 // task separator
 echo "&lt;hr style=\"margin 1rem 0\"&gt;";
 
