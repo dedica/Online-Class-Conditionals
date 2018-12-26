@@ -72,13 +72,17 @@ assign it with the value <strong><em>false</em></strong>.
 
 /*
 Use if-else statement to check if the red or yellow light is on, and the green light is off,
-if so, print "Stop the car!", 
-else if the red or yellow light is off, and the green light is off.
-In this case print "Power outage!",
-else if the red or yellow light is off, and the green light is on.
+if so, print "Stop the car!".
+
+Next, check if the red and yellow and green light is off,
+In this case print "Power outage!".
+
+Next, check if the red and yellow light is off, and the green light is on.
 In this case print "Keep moving!";
-else if the red or yellow light is on, and the green light is on.
-In this case print "Traffic lights are messed up!"
-otherwise print "Follow the rules and stay safe!".
+
+Next, check if the red or yellow light is on, and the green light is on too.
+In this case print "Traffic lights are messed up!".
+
+In any other case print "Follow the rules and stay safe!".
 */
 </pre>
