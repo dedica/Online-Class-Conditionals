@@ -98,7 +98,7 @@ echo "&lt;hr style=\"margin 1rem 0\"&gt;";
 +---+
 | 5 |
 +---+
-Handle the problem from the task 4 with the switch-statement!
+Handle the problem from the task 4 with switch-statement!
 The referencial value will be <strong><em>true</em></strong>.
 */
 </pre>
